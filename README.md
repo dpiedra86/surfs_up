@@ -9,10 +9,12 @@ The objectivo of the analysisi was to understand temperatures between June and D
 Temperature and precipitation were used as the key dimensions to make the analysis.
 
 >June Analysis
+>
 >![checkout_time_by_user](https://github.com/dpiedra86/surfs_up/blob/main/Images/June.png) 
 The Higher temperature in June is 85 and the mean is 75F in June. The average prcp is .13 
 
 >December Analysis
+>
 >![checkout_time_by_user](https://github.com/dpiedra86/surfs_up/blob/main/Images/December.png) 
 The Higher temperature in December is 83 and the mean is 71F in June. The average prcp is .21 
 
