@@ -11,11 +11,13 @@ Temperature and precipitation were used as the key dimensions to make the analys
 >June Analysis
 >
 >![checkout_time_by_user](https://github.com/dpiedra86/surfs_up/blob/main/Images/June.png) 
+>
 The Higher temperature in June is 85 and the mean is 75F in June. The average prcp is .13 
 
 >December Analysis
 >
 >![checkout_time_by_user](https://github.com/dpiedra86/surfs_up/blob/main/Images/December.png) 
+>
 The Higher temperature in December is 83 and the mean is 71F in June. The average prcp is .21 
 
 ### Disclaimer
@@ -30,11 +32,15 @@ Using this databases to comapre data bewtween them, it's a huge advantage. It le
 
 
 >June Graphic
+>
 >![checkout_time_by_user](https://github.com/dpiedra86/surfs_up/blob/main/Images/June_GRaphic.png) 
+>
  June seems to behave in a more similar fashion in the recordings.
 
 >December Graphic
+>
 >![checkout_time_by_user](https://github.com/dpiedra86/surfs_up/blob/main/Images/December_Graphic.png) 
+>
 December seems to behave average as well, but we can see that there exists an outlier in the plot. I wouln't recomend dismiss it immediatley but still it´s not a constant so I wouldn't be concerned as a crucial factor for decision making. 
 
 
